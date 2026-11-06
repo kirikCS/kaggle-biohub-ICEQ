@@ -1,0 +1,1 @@
+{"rescue_weak": true, "rescue_dropped": true, "relink_flow": true, "gap_flow": true, "safe_div_flow": true, "relink_flow_own": 0.0, "rescue_max_steps": 5, "rescue_max_frac": 0.1, "ilp_adaptive_disappearance": 0.5, "cache_lite": true, "safe_div_min_angle_deg": 105.0, "rescore_model_path": "{PP}/link_model_all.txt", "rescore_device": "cuda", "rescore_temp": 2.0}

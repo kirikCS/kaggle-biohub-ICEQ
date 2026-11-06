@@ -1,0 +1,23 @@
+# environments and caches
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# data, downloads and archives (never in the repo)
+backups/
+tracks_zebrafish_bundle.zarr/
+public_kernels/
+*.zarr/
+*.geff/
+*.npz
+*.pt
+*.pth
+*.parquet
+*.tgz
+*.zip
+
+# secrets
+.kaggle/
+access_token
